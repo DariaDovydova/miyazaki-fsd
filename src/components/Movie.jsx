@@ -13,7 +13,7 @@ const Movie = ({movie}) => {
     <div className="card">
       <Link to={`/about/${movie.title}`}>
     <div className="card-image">
-    <img className='img-catalog' src={`../img/${movie.img}.jpg`} alt="movie" />
+    <img className='img-catalog' src={movie.img} alt="movie" />
     </div>
       </Link>
     <div className="card-content">

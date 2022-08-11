@@ -16,7 +16,7 @@ function AboutAnime() {
         
         <div key={index}>
           <h3 className='header-anime'>{item.name}</h3>
-          <a className='link-anime' href={item.link}>WATCH NOW</a>
+          <a className='link-anime' href={item.link} target='_blank' rel='noreferrer'>WATCH NOW</a>
           <div className='container-about'>
           <div className='blob'><img src={`../img/${item.imgAbout}.jpg`} alt="anime" width='100%' height='100%' /></div>
           <div className='block-desc'>
