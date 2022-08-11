@@ -4,7 +4,7 @@ const dataMovies = [
 
     id: 1,
     title: `Howl's-Moving-Castle`,
-    img: 'one',
+    img: 'castle',
     name: `Howl's Moving Castle`,
     imgAbout: 'howl-moving-castle',
     desc: `Sophie (Emily Mortimer) has an uneventful life at her late father's hat shop, but all that changes when she befriends wizard Howl (Christian Bale), who lives in a magical flying castle. However, the evil Witch of Waste (Lauren Bacall) takes issue with their budding relationship and casts a spell on young Sophie, which ages her prematurely. Now Howl must use all his magical talents to battle the jealous hag and return Sophie to her former youth and beauty.`,
@@ -18,7 +18,7 @@ const dataMovies = [
 
     id: 2,
     title: 'Spirited-Away',
-    img: 'two',
+    img: 'spirited',
     name: 'Spirited Away',
     imgAbout: 'spirited-away',
     desc: `10-year-old Chihiro (Daveigh Chase) moves with her parents to a new home in the Japanese countryside. After taking a wrong turn down a wooded path, Chihiro and her parents discover an amusement park with a stall containing an assortment of food. To her surprise, Chihiro's parents begin eating and then transform into pigs. In this supernatural realm, Chihiro encounters a host of characters and endures labor in a bathhouse for spirits, awaiting a reunion with her parents.`,
@@ -31,7 +31,7 @@ const dataMovies = [
 {
     id: 3,
     title: `Kiki's-Delivery-Service`,
-    img: 'three',
+    img: 'witch',
     name: `Kiki's Delivery Service`,
     imgAbout: 'kiki',
     desc: `In this anime feature, 13-year-old Kiki moves to a seaside town with her talking cat, Jiji, to spend a year alone, in accordance with her village's tradition for witches in training. After learning to control her broomstick, Kiki sets up a flying courier service and soon becomes a fixture in the community. But when the insecure young witch begins questioning herself and loses her magic abilities, she must overcome her self-doubt to get her powers back.`,
@@ -45,7 +45,7 @@ const dataMovies = [
 {
     id: 4,
     title: 'My-Neighbor-Totoro',
-    img: 'four',
+    img: 'neighbor',
     name: 'My Neighbor Totoro',
     imgAbout: 'totoro',
     desc: `This acclaimed animated tale by director Hayao Miyazaki follows schoolgirl Satsuke and her younger sister, Mei, as they settle into an old country house with their father and wait for their mother to recover from an illness in an area hospital. As the sisters explore their new home, they encounter and befriend playful spirits in their house and the nearby forest, most notably the massive cuddly creature known as Totoro.`,
@@ -60,7 +60,7 @@ const dataMovies = [
 
     id: 5,
     title: 'Ponyo',
-    img: 'five',
+    img: 'fish',
     name: 'Ponyo',
     imgAbout: 'ponyo',
     desc: `During a forbidden excursion to see the surface world, a goldfish princess encounters a human boy named Sosuke, who gives her the name Ponyo. Ponyo longs to become human, and as her friendship with Sosuke grows, she becomes more humanlike. Ponyo's father brings her back to their ocean kingdom, but so strong is Ponyo's wish to live on the surface that she breaks free, and in the process, spills a collection of magical elixirs that endanger Sosuke's village.`,
@@ -74,7 +74,7 @@ const dataMovies = [
 
     id: 6,
     title: 'Whisper Of The Heart',
-    img: 'six',
+    img: 'heart',
     name: 'Whisper Of The Heart',
     imgAbout: 'whisper-of-the-heart',
     desc: `Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.`,
@@ -87,7 +87,7 @@ const dataMovies = [
 {
     id: 7,
     title: 'Castle-in-the-Sky',
-    img: 'seven',
+    img: 'sky',
     name: 'Castle in the Sky',
     imgAbout: 'castle-in-the-sky',
     desc: `Young orphan Sheeta and her kidnapper, Col. Muska, are flying to a military prison when their plane is attacked by a gang of air pirates led by the matronly Dola. Escaping from a mid-air collision via a magic crystal around her neck, Sheeta meets fellow orphan Pazu and the pair join forces to discover the mystical floating city of Laputa while pursued by both Muska and the pirates, who lust for the city's myriad treasures.`,
@@ -100,7 +100,7 @@ const dataMovies = [
 {
     id: 8,
     title: 'Secret-World-of-Arrietty',
-    img: 'eight',
+    img: 'secret',
     name: 'Secret World of Arrietty',
     imgAbout: 'arrietty',
     desc: `Arrietty, a tiny teenager, lives with her parents in the recesses of a suburban home, unbeknown to the homeowner and housekeeper. Like others of her kind, Arrietty remains hidden from her human hosts, but occasionally ventures forth from beneath the floorboards to borrow sugar cubes and other supplies. A secret friendship forms when 12-year-old Shawn meets Arrietty, but their relationship could spell danger for Arrietty's family.`,
@@ -113,7 +113,7 @@ const dataMovies = [
 {
     id: 9,
     title: 'Princess-Mononoke',
-    img: 'nine',
+    img: 'princess',
     name: 'Princess Mononoke',
     imgAbout: 'mononoke',
     desc: `A prince becomes involved in the struggle between a forest princess and the encroachment of mechanization.`,
@@ -126,7 +126,7 @@ const dataMovies = [
 {
     id: 10,
     title: 'The-Wind-Rises',
-    img: 'ten',
+    img: 'wind-rises',
     name: 'The Wind Rises',
     imgAbout: 'wind',
     desc: `A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.`,
