@@ -1,4 +1,4 @@
-import Miadzaki from  '../miadzaki.jpg';
+import Miadzaki from  '../assets/images/miadzaki.jpg';
 
 function Quotes() {
   return (

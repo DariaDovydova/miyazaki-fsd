@@ -1,4 +1,4 @@
-import Ember from '../gi.png';
+import Ember from '../assets/images/gi.png';
 
 function Preloader() {
   return (

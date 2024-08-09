@@ -17,7 +17,7 @@ body {
 
 .footer {
   height: 400px;
-  background-image: url("ghibli.jpg");
+  background-image: url("./shared/assets/images/ghibli.jpg");
   background-position: center;
   background-size: cover;
 }

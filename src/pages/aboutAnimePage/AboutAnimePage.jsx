@@ -1,8 +1,8 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import dataMovies from '../data/dataMovies';
+import dataMovies from '../../entities/data/dataMovies';
 
 
-function AboutAnime() {
+function AboutAnimePage() {
   const navigate = useNavigate();
   const {title} = useParams();
 
@@ -35,4 +35,4 @@ function AboutAnime() {
   )
 }
 
-export { AboutAnime };
+export { AboutAnimePage };
